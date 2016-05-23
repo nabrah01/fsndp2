@@ -1,7 +1,9 @@
+/* Increase thickness of header horizontal rule */
 .header {
     border-bottom: 3px solid #7d97ad;
 }
 
+/* Google fonts definitions */
 .name {
     font-family: 'Ubuntu', sans-serif;
     font-weight: 500;
@@ -12,10 +14,14 @@
     font-weight: 400;
 }
 
+/* Border testing on/off */
+/*
 * {
     border: 0px solid black;
 }
+*/
 
+/* Logo image dimensions in header */
 .logo {
     width:  100px;
     height: 100px;
