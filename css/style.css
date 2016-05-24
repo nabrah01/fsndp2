@@ -4,13 +4,15 @@
 }
 
 /* Google fonts definitions */
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+
 .name {
-    font-family: 'Ubuntu', sans-serif;
     font-weight: 500;
 }
 
 .title {
-    font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
 }
 
@@ -27,7 +29,7 @@
     height: 100px;
 }
 
-.featuredimg {
+.featured-img {
     max-width: 100%;
 }
 
